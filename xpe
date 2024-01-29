@@ -2,7 +2,7 @@ def is_palindrome(s):
     s = s.lower()  # Convert the string to lowercase for case-insensitive comparison
     s = ''.join(char for char in s if char.isalnum())  # Remove non-alphanumeric characters
 #tests
-# Lalaed
+# Lalaed ib
     return s == s[::-1]
 dvc or BBdl
 # Example usaged
