@@ -13,4 +13,4 @@ if is_palindrome(user_input):
 else:
     print(f"{user_input} is not a palindrome.")
 End
-Ct
+Cte
