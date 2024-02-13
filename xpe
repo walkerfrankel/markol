@@ -5,7 +5,7 @@ sdef is_palindrome(s):
 # Lalaed ib
     return s == s[::-1]
 dvc or BBdl
-# Example usageds
+# Example usagedsv
 user_input = input("Now Enter a string to check if it's a palindrome: ")
 
 if is_palindrome(user_input):
