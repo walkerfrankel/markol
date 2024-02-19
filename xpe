@@ -1,4 +1,5 @@
-qsdef is_palindrome(s):
+# qs
+def is_palindrome(s):
     s = s.lower()  # Convert the string to lowercase for case-insensitive comparison
     s = ''.join(char for char in s if char.isalnum())  # Remove non-alphanumeric characters
 #testssq
